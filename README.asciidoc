@@ -23,3 +23,27 @@ We're Getting Stuff Done every day. It may be solving a problem in search releva
 Sports! There's nothing quite like working on products that support the teams you love.
 
 We've got our own set of incredibly unique challenges - things like building a platform flexible enough to burst for the traffic we see after the Super Bowl and on Cyber Monday, that can support a large number of leagues and teams, or an SDK to be used by next-generation sports apps
+
+== Subsections
+=== link:Onboarding.asciidoc[Onboarding]
+
+== Fanatics FAQ
+=== What language(s) do you use?
+We're big fans of using the right tool for the job. Right now in production, we're running:
+
+* JavaScript
+* Python
+* Java
+* Scala
+* C#
+* Objective C
+* Swift
+
+=== What source control do you use?
+Git. We love git.
+
+=== What does testing look like?
+Interesting question! Are you looking to help us automate it?
+
+=== What does deployment look like?
+Interesting question! Are you looking to help us automate it?

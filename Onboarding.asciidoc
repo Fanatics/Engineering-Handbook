@@ -1,0 +1,33 @@
+== On-Boarding
+
+On your first day, you'll be joining an awesome crew at one of our offices -
+this checklist is for you and your manager to run through. See how much of it
+you can do yourself!
+
+=== Bring
+* *A CHECK* to set up your direct deposit
+* That's probably all you'll need, but single-item lists are weird
+
+=== Humans
+* Introduce yourself to the whole office (not just your team)!
+* Get your laptop from IT
+
+=== GUI
+. Install your favorite IDE (xCode, Eclipse, IntelliJ, NetBeans are worth checking out if you're not link:https://github.com/tpope[Tim Pope])
+. Install your favorite text editor (Atom? Sublime? Or maybe vim, since you are Tim Pope?)
+. Install Slack, join a few channels (#general, #onboarding, and find a few that look related to your area of expertise)
+. Install iTerm2
+. Install Docker Toolbox
+. Set up your VPN token with your local IT (you did get their name, right?)
+. Ensure you have access to Github, JIRA, Okta
+. Super duper double check you've got access to ADP
+
+=== Command line:
+. Install ZSH or fish, take some time to set it up in a way that makes sense to you
+. Install brew
+. Install node, npm, php
+. Install python, venvburrito
+
+
+=== Work
+Hop on jira, slack, and github to find issues you can jump on!
