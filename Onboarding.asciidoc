@@ -25,7 +25,7 @@ you can do yourself!
 === Command line:
 . Install ZSH or fish, take some time to set it up in a way that makes sense to you
 . Install brew
-. Install node, npm, php
+. Install node, npm
 . Install python, venvburrito
 
 
