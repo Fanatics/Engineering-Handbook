@@ -1,0 +1,25 @@
+= Fanatics Engineering
+
+:Author:    Johnny Sheeley <jsheeley@fanatics.com>
+:Date:      27/10/2015
+:Revision:  1
+
+:source-highlighter: coderay
+:toc:
+:toc-placement: preamble
+
+We've created this living document to:
+
+- document our process - and ensure it stays clear and concise enough to remain in this form
+- be transparent with candidates as well as employees about our processes
+- set candidates up for success when interviewing
+- answer "how do i get started at fanatics?"
+
+
+== Why Fanatics?
+Fanatics is always interested in bringing on new intelligent people, and we think we're a terrific place to work. Why?
+
+We're Getting Stuff Done every day. It may be solving a problem in search relevance, ensuring our CSS makes our designers happy, or building a proof of concept, we #GSD
+Sports! There's nothing quite like working on products that support the teams you love.
+
+We've got our own set of incredibly unique challenges - things like building a platform flexible enough to burst for the traffic we see after the Super Bowl and on Cyber Monday, that can support a large number of leagues and teams, or an SDK to be used by next-generation sports apps
